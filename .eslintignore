@@ -1,0 +1,5 @@
+dist
+node_modules
+**/*.d.ts
+/packages/lodash/src/lodash
+/packages/lightweight-charts/src/module
